@@ -1,2 +1,0 @@
-<?phpdasdas
-phpinfo();
